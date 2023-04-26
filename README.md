@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @preetisharma2005
-- 👀 I’m interested in ML and AI
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Preeti Sharma(Data Analyst/Engineer)
+- 👀 I’m interested in SQL,ML,AI,Python
+- 🌱 I’m currently learning all related tools and skills
 - 📫 How to reach me preetisharma2005@gmail.com
 
 <!---
